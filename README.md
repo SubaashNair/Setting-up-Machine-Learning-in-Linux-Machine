@@ -97,7 +97,7 @@ conda activate sklearn-env
 Install JupyterLab using the following command.
 
 ```
-conda install jupyter-lab
+pip install jupyter-lab
 ```
 
 Install seaborn using the following command.
