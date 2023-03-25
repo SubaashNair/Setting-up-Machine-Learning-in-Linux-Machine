@@ -16,6 +16,40 @@
     <br />
   </p>
 </p>
+
+<p align="center"> 
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/archlinux.svg" alt="Arch Linux" width="40" height="40"/> 
+    </a> 
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/> 
+    </a> 
+    <a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://plotly.com/all_static/logo.png" alt="Plotly" width="40" height="40"/> 
+    </a> 
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
+    </a> 
+    <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/conda/brand/master/assets/svg/Mamba-Logo-Horizontal-RGB.svg" alt="Miniconda3" width="120"/> 
+    </a> 
+    <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/conda/brand/master/assets/svg/Anaconda_horizontal_RGB.svg" alt="Anaconda" width="120"/> 
+    </a> 
+</p>
+
+<br/>
+
+
 <!-- TABLE OF CONTENTS -->
 <h2>Table of Contents</h2>
 
