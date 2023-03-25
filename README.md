@@ -27,6 +27,7 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#bash-script">Script</a></li>
   </ol>
 </details>
 <!-- PREREQUISITES -->
@@ -94,6 +95,33 @@ jupyter-lab
  - JupyterLab
  - seaborn
  - plotly
+ 
+<!--Script-->
+<h3>Script</h3>
+
+Here is a sample bash script that you can use to install scikit-learn, JupyterLab, seaborn, and Plotly:
+
+```
+#!/bin/bash
+
+# Create conda environment for scikit-learn
+conda create -y -n sklearn-env -c conda-forge scikit-learn
+
+# Activate scikit-learn environment
+conda activate sklearn-env
+
+# Install JupyterLab using conda
+conda install -y jupyterlab
+
+# Install seaborn using conda
+conda install -y seaborn -c conda-forge
+
+# Install Plotly using conda
+conda install -y -c plotly plotly
+
+```
+
+You can save this script as install.sh and run it using the command bash install.sh in your terminal. Note that this assumes that you have conda installed on your system.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
